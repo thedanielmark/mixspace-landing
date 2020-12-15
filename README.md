@@ -1,4 +1,4 @@
-# Front-End Site - MixSpace Cloud Platform
+# MixSpace Mail Server
 
 ![](https://github.com/thedanielmark/mixspace-landing/blob/master/logo%20180x180.png)
 
